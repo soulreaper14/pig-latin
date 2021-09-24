@@ -21,3 +21,14 @@ Here is a sentence example. Note that you leave words with a single letter alone
 
 - I love coding
 - I oveay odingcay
+
+# Concepts
+
+- `delimit`: to separate
+- `delimiter`: separator
+- the `tilde` is `~`
+- types of loops in Java
+  - `for-loop`
+  - `for-each`
+  - `while`
+  - `do-while`
